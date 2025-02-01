@@ -34,7 +34,7 @@ A modern desktop application for managing library operations built with Python a
 1. Clone the repository:
 ```bash
 git clone https://github.com/anand-808/SQLite-library-management.git
-cd library-management-system
+cd SQLite-library-management
 ```
 
 2. Create a virtual environment (recommended):
