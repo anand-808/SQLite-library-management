@@ -15,7 +15,7 @@ if __name__ == "__main__":
         print("Database not found. Running setup_db.py...")
         run_script("setup_db.py")
     else:
-        print("Database already exists. Skipping setup_db.py.py.")
+        print("Database already exists. Skipping setup_db.py")
 
     # Run the main library application
     print("Launching library.py...")
