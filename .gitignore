@@ -2,3 +2,4 @@
 library.db
 venv
 .env
+.idea
